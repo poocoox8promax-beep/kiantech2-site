@@ -1,0 +1,6 @@
+{
+  "name": "کیان لپ تاپ",
+  "description": "فروشگاه آنلاین و مدرن گجت‌ها و محصولات تکنولوژی کیان لپ تاپ با طراحی الهام‌گرفته از اپل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
